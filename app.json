@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21702667",
+        "value": "27013344",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6edfc559624f881569280cdb416f0c06",
+        "value": "be5f160b65f07128459b4289c6e286ad",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6065568342",
+        "value": "7173333959",
         "required": true
       },
       "STRING_SESSION": {
@@ -49,12 +49,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "Ak music",
+        "value": "RiseeUniverse",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "-1002001280194",
+        "value": "-1002086465850",
         "required": true
       }
     },
